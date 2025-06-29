@@ -1,0 +1,3 @@
+[submodule "include/hardfloat"]
+	path = include/hardfloat
+	url = https://github.com/drom/HardFloat
